@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Panashe1
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning PHP, Laravel and Vue.js
-- 💞️ I’m looking to collaborate on small apps across multi-disciplines.
+- 🌱 I’m currently learning PHP, Node, React and Vue.js
 - 📫 You can reach me by email at pmugayapi@hotmail.com
 
 <!---
